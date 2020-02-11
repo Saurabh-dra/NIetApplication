@@ -15,7 +15,7 @@ public class Lab4_Forth {
 	}
 
 	public void countChar() {
-		int i, j, m = 0;
+		int i, m = 0;
 		int size;
 		try {
 			System.out.println("Enter size");
@@ -26,7 +26,6 @@ public class Lab4_Forth {
 				array[i] = br.readLine().charAt(0);
 
 			char map[] = new char[size];
-			int count[] = new int[size];
 			for (i = 0; i < size; i++) {
 				
 			}

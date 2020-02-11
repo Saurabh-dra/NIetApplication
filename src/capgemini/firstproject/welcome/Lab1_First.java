@@ -1,10 +1,10 @@
 package capgemini.firstproject.welcome;
 
-public class Labbook_First {
+public class Lab1_First {
 	int natural_numbers = 150;
 
 	public static void main(String[] args) {
-		Labbook_First ob = new Labbook_First();
+		Lab1_First ob = new Lab1_First();
 		ob.calculateSum(ob.natural_numbers);
 	}
 

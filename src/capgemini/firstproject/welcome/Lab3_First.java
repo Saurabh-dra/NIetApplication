@@ -55,6 +55,7 @@ public class Lab3_First {
 					return array[j];
 			}
 		}
+		
 		return array[0];
 	}
 
