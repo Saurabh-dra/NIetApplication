@@ -1,10 +1,10 @@
 package capgemini.firstproject.welcome;
 
-public class Labbook1_Forth {
+public class Lab1_Forth {
 	int number = 1024;
 
 	public static void main(String[] args) {
-		Labbook1_Forth obj = new Labbook1_Forth();
+		Lab1_Forth obj = new Lab1_Forth();
 		System.out.println(obj.checkNumber(obj.number));
 
 	}

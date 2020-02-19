@@ -43,7 +43,7 @@ public class Lab3_First {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-		i=0;//for(i=0;i<size;i++)
+		i=0;
 		{
 			
 			for(int j=i+1;j<size;j++)
